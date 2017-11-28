@@ -1,0 +1,6 @@
+2017-11-28 19:52:43,266 [MainThread  ] [INFO ] [118]  测试日志输出
+2017-11-28 19:53:14,623 [MainThread  ] [INFO ] [118]  测试日志输出
+2017-11-28 19:53:14,843 [MainThread  ] [INFO ] [431]  Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2017-11-28 19:53:14,874 [MainThread  ] [INFO ] [865]  Added job "sync_acba_sentence" to job store "default"
+2017-11-28 19:53:14,875 [MainThread  ] [INFO ] [158]  Scheduler started
+2017-11-28 19:53:14,876 [MainThread  ] [INFO ] [129]  periodic server listening on port: 20000

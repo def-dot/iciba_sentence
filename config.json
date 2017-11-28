@@ -1,0 +1,14 @@
+{
+  "postgres": {
+    "host": "127.0.0.1",
+    "password": "1",
+    "port": "5432",
+    "user": "postgres",
+    "db": "postgres"
+  },
+
+  "file": {
+    "path": "temp",
+    "log": "/logs"
+  }
+}
